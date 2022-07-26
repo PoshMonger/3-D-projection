@@ -1,5 +1,5 @@
 # 3D-projection
-HTML canvas element constructor functions to plot 3 dimensional projections
+HTML canvas element and custom vertice constructor functions to plot 3 dimensional projections
 
 -Tracking verticies based on center of cube, which side it is on, and initial length of side.
 
