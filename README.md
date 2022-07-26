@@ -9,7 +9,7 @@ HTML canvas element and custom vertice constructor functions to plot 3 dimension
 
 -Nested for loops to plot vertices per face, faces per cube, cubes per amount of objects
 
--EventListeners added to DOM are on really suited for one object at the moment
+-EventListeners added to DOM are on really suited for more than one object at the moment
 
 How to interact:
 
